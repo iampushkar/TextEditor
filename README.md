@@ -45,6 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Mukesh Kumari](https://github.com/mukeshkumari1)
 
 Feel free to fork, contribute, or provide feedback on this project!
